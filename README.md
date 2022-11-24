@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My name is Guilherme and I am from Sao Paulo, Brazil.<br>
-I'm a self taught Front-end web and mobile developer currently working at <a href='https://github.com/Work-In-Ideas-WiiD'>WiiD - Work in Ideas</a>.
+I'm a self taught Front-end web and mobile developer working at <a href='https://github.com/Work-In-Ideas-WiiD'>WiiD - Work in Ideas</a>.
 
 #### Every day I use
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)[![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)[![ReactNative](https://img.shields.io/badge/React_Native-323330?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
@@ -24,8 +24,11 @@ I'm a self taught Front-end web and mobile developer currently working at <a hre
 #### I also like to work with
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)[![Nextjs](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
-#### In my free time I learn
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+#### I am currently learning
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+
+#### I can also get some stuff done with
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 
 ## Contact
 <div align="center">
