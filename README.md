@@ -22,7 +22,7 @@ I'm a self taught Front-end web and mobile developer working at <a href='https:/
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)[![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)[![ReactNative](https://img.shields.io/badge/React_Native-323330?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 
 #### I also like to work with
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)[![Nextjs](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)[![Nextjs](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)[![Expo](https://img.shields.io/badge/Expo-fff?style=for-the-badge&logo=expo&logoColor=000)](https://expo.dev/)
 
 #### I am currently learning
 [![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
