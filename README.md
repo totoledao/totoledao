@@ -27,15 +27,15 @@ Working at <a href='https://github.com/Work-In-Ideas-WiiD'>WiiD - Work in Ideas<
 #### I also like to work with
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)[![Nextjs](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)[![Expo](https://img.shields.io/badge/Expo-fff?style=for-the-badge&logo=expo&logoColor=000)](https://expo.dev/)
 
-#### I am thinking about learning next
-[![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
-
 #### I can also get some stuff done with
 [![Kotlin](https://img.shields.io/badge/Kotlin-8473ff?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/) for native Android development
 
 [![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/) for back-end
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) for automation and machine vision
+
+#### I am thinking about learning next
+[![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 
 ## Contact
 <div align="center">
