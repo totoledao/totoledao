@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My name is Guilherme Toledo and I am from Sao Paulo, Brazil.
-<br>I'm a self taught Front-end web and Mobile developer with nearly 3 years of experience.
+<br>I'm a self taught Front-end web and Mobile developer with 3 years of experience.
 <br>I am dedicated to deepening my knowledge of React Native and JavaScript while exploring new skill sets in programming languages like Go and Kotlin.
 
 Working at <a href='https://github.com/Work-In-Ideas-WiiD'>WiiD - Work in Ideas</a>
