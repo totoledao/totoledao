@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My name is Guilherme Toledo and I am from Sao Paulo, Brazil.
-<br>I'm a resourceful self taught developer with 3 years of experience in front-end and mobile development, specializing in cross-platform solutions for Android and IOS with React Native, Expo, JavaScript and TypeScript.
+<br>I'm a resourceful self taught developer with 3+ years of experience in front-end and mobile development, specializing in cross-platform solutions for Android and IOS with React Native, Expo, JavaScript and TypeScript.
 <br>I am dedicated to deepening my knowledge while exploring new skill sets in programming languages like Go and Kotlin.
 
 Working at <a href='https://github.com/Work-In-Ideas-WiiD'>WiiD - Work in Ideas</a>
@@ -32,7 +32,7 @@ Working at <a href='https://github.com/Work-In-Ideas-WiiD'>WiiD - Work in Ideas<
 
 [![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/) for back-end
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) for automation and machine vision
+<!-- [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) for automation and machine vision -->
 
 #### I am thinking about learning next
 [![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
