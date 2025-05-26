@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 My name is Guilherme Toledo and I am from Sao Paulo, Brazil.
-<br>I'm a resourceful self taught developer with 4 years of experience in front-end and mobile development, specializing in cross-platform solutions for Android and IOS with React Native, Expo, JavaScript and TypeScript.
-<br>I am dedicated to deepening my knowledge while exploring new skill sets in programming languages like Go and Kotlin.
+<br>Resourceful developer with 4 years of experience in front-end and mobile development. Skilled in JavaScript and TypeScript, specializing in React Native and Expo for cross-platform solutions on Android and iOS, as well as React for web applications.
+<br>Knowledge of back-end development with Node.js and Go, and native Android development with Kotlin.
 
 Working at <a href='https://github.com/Work-In-Ideas-WiiD'>WiiD - Work in Ideas</a>
 
