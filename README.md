@@ -22,10 +22,10 @@ My name is Guilherme Toledo and I am from Sao Paulo, Brazil.
 Working at <a href='https://github.com/Work-In-Ideas-WiiD'>WiiD - Work in Ideas</a>
 
 #### Every day I use
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)[![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)[![ReactNative](https://img.shields.io/badge/React_Native-323330?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)[![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)[![ReactNative](https://img.shields.io/badge/React_Native-323330?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)[![Expo](https://img.shields.io/badge/Expo-fff?style=for-the-badge&logo=expo&logoColor=000)](https://expo.dev/)
 
 #### I also like to work with
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)[![Nextjs](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)[![Expo](https://img.shields.io/badge/Expo-fff?style=for-the-badge&logo=expo&logoColor=000)](https://expo.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)[![Nextjs](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 #### I can also get some stuff done with
 [![Kotlin](https://img.shields.io/badge/Kotlin-8473ff?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/) for native Android development
