@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Guilherme Toledo and I am from Sao Paulo, Brazil.
+My name is Guilherme Toledo and I am from Sao Paulo, Brazil, living in Naples, Italy.
 <br>Resourceful developer with 4 years of experience in front-end and mobile development. Skilled in JavaScript and TypeScript, specializing in React Native and Expo for cross-platform solutions on Android and iOS, as well as React for web applications.
 <br>Knowledge of back-end development with Node.js and Go, and native Android development with Kotlin.
 
