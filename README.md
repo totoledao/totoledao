@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My name is Guilherme Toledo and I am from Sao Paulo, Brazil, living in Naples, Italy.
-<br>Resourceful developer with 4 years of experience in front-end and mobile development. Skilled in JavaScript and TypeScript, specializing in React Native and Expo for cross-platform solutions on Android and iOS, as well as React for web applications.
+<br>Resourceful developer with over 4 years of experience in front-end and mobile development. Skilled in JavaScript and TypeScript, specializing in React Native and Expo for cross-platform solutions on Android and iOS, as well as React for web applications.
 <br>Knowledge of back-end development with Node.js and Go, and native Android development with Kotlin.
 
 Working at <a href='https://github.com/Work-In-Ideas-WiiD'>WiiD - Work in Ideas</a>
@@ -30,7 +30,7 @@ Working at <a href='https://github.com/Work-In-Ideas-WiiD'>WiiD - Work in Ideas<
 #### I can also get some stuff done with
 [![Kotlin](https://img.shields.io/badge/Kotlin-8473ff?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/) for native Android development
 
-[![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/) for back-end
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)[![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) for back-end
 
 <!-- [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) for automation and machine vision -->
 
