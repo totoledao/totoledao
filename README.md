@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My name is Guilherme Toledo and I am from Sao Paulo, Brazil, living in Naples, Italy.
-<br>I am a resourceful developer with over 4 years of experience in frontend and mobile development. Skilled in JavaScript and TypeScript, specializing in React Native and Expo for cross-platform solutions on Android and iOS, as well as React for web applications.
-<br>Knowledge of back-end development with Node.js and Go, and native Android development with Kotlin.
+<br>I am a frontend and mobile developer with 4+ years of experience. Specialized in React Native, Expo, React and Angular for cross-platform applications on Android, iOS, and web. Skilled in JavaScript and TypeScript, with knowledge of Next.js, Node.js, Kotlin and Go.
 
 Working at <a href='https://kiranet.it/'>Kiranet</a>
 
